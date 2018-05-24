@@ -1,3 +1,6 @@
-marginBottom{
+.marginBottom{
     margin-bottom:0px !important;
+}
+.marginTop{
+    margin-top:15% !important;
 }
